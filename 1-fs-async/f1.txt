@@ -1,0 +1,1 @@
+In Node.js, you can use the fs (File System) module to write data to a file
